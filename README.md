@@ -1,4 +1,6 @@
-# Project Name - Actors Database
+# lab 1
+## author - `Khlyvniuk Daniil`
+## group - `i-12`
 
 ## Overview
 
