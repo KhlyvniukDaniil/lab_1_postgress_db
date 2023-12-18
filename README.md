@@ -2,6 +2,8 @@
 ### Author - `Khlyvniuk Daniil`
 ### Group - `i-12`
 
+___
+
 ## Overview
 
 This project demonstrates the setup of a PostgreSQL database using Docker Compose and includes the creation of a table
